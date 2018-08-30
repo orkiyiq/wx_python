@@ -1,0 +1,6 @@
+        .idea/
+        jc/db.sqlite3
+        jc/jc/__pycache__/
+        jc/weixin_jc/__pycache__/
+        jc/weixin_jc/migrations/
+        jc/weixin_jc/weixin.xml
